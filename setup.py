@@ -21,6 +21,6 @@ setup(
      					 'Intended Audience :: Developers',
       					'Programming Language :: Python'
   				],
-	  long_description=open_file('README.rst').read()
+	  #long_description=open_file('README.rst').read()
 
      )
