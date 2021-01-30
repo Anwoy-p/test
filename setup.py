@@ -12,7 +12,7 @@ setup(
 	  name = 'spoken2written',
       packages = ['spoken2written'],
       version='0.1',
-      license=open('LICENSE.txt').read(),
+      #license=open('LICENSE.txt').read(),
       description='Convert Spoken English given as text to Written English ',
       author='Vishal Dhiman',
       author_email='cse_vishal@hotmail.com',
